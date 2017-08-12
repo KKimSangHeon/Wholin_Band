@@ -13,4 +13,8 @@
 
 처음 언어를 설정하고 자신의 기본정보를 입력하고 추가정보를 입력후 밴드를 스마트폰에 갖다대면 밴드 등록이 완료됩니다.
 
-[시연영상](https://www.youtube.com/watch?v=eBBswuTXMxY)
+
+## 시연영상
+
+[![시연영상](https://img.youtube.com/vi/eBBswuTXMxY/0.jpg)](https://www.youtube.com/watch?v=eBBswuTXMxY)
+
